@@ -2,18 +2,18 @@
 This repository contains various C programming projects and exercises completed as part of my higher studies.
 
 
-Table of Contents
-Overview
-Programs
+#Table of Contents
+->Overview
+->Programs
 
 
-Overview
+#Overview
 The projects in this repository are written in C and cover a range of topics such as data structures, algorithms, file handling, memory management, and system-level programming.
 
 These programs demonstrate the application of C language concepts, aiming to solve academic exercises and real-world problems.
 
 
-Programs
+#Programs
 Here is a brief overview of the programs included:
 
 Program 1: intopostfix.c
