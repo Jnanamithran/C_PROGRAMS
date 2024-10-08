@@ -20,7 +20,7 @@ for(i=0;i<n;i++)
 {
 if(a[i]==m)
 {
-printf("Element Found at postion %d!!!",a[i]);
+printf("Element Found at postion %d!!!",i+1);
 }
 }
 }
